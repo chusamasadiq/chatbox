@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577864510453",
+    "project_id": "chatbox-bdc2b",
+    "storage_bucket": "chatbox-bdc2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577864510453:android:433c56927f785e41e64ebc",
+        "android_client_info": {
+          "package_name": "com.example.lab14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577864510453-ui7uh49tp6142es0uj4sivo6phg7njmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgCab_IK1IcE7ruOQYHckEWcUF0wBZcxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577864510453-ui7uh49tp6142es0uj4sivo6phg7njmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
